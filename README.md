@@ -1,5 +1,3 @@
-# Digital-Time
-A simple digital clock web app built using HTML, CSS, and JavaScript. It displays the current time in real-time with a clean and responsive design.
 ⏰ Digital Clock
 A simple and elegant digital clock web application built using HTML, CSS, and JavaScript. This project displays the current time in a 12-hour format with real-time updates every second. The design is clean, responsive, and suitable for learning basic DOM manipulation and styling.
 
